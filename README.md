@@ -152,8 +152,6 @@ DAMAGE_ON  = 2
 
 <hr>
 
-<h2>📜 License</h2>
-<p>Add MIT or your preferred license.</p>
 
 <hr>
 
